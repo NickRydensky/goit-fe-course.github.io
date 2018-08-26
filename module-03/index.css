@@ -1,0 +1,120 @@
+.wrapper {
+  width: 1200px;
+
+  margin: 0 auto;
+}
+
+.navigation {
+  width: 600px;
+
+  margin: 0 auto;
+
+  margin-top: 77px;
+}
+
+.navigation a {
+  text-decoration: none;
+
+  color: #626262;
+
+  font-family: playfairdisplay;
+
+  margin-left: 70px;
+
+  font-size: 14px;
+
+  font-weight: 400;
+
+  line-height: 24px;
+
+  text-align: center;
+
+  text-transform: uppercase;
+}
+
+.navigation a:focus hover {
+  color: #03a9f4;
+}
+
+.navigation ul li {
+  list-style-type: none;
+
+  display: inline;
+}
+
+.first {
+  width: 900px;
+
+  margin: 0 auto;
+
+  margin-top: 80px;
+}
+
+.first div {
+  width: 420px;
+
+  display: inline-block;
+}
+
+.left {
+  margin-right: 60px;
+}
+
+.right {
+  margin-right: -4px;
+}
+
+.second {
+  width: 900px;
+
+  margin: 0 auto;
+
+  margin-top: 80px;
+}
+
+.second div {
+  width: 420px;
+
+  display: inline-block;
+}
+
+.left {
+  margin-right: 60px;
+}
+
+.right {
+  margin-right: -4px;
+}
+
+.third {
+  width: 900px;
+
+  margin: 0 auto;
+
+  margin-top: 80px;
+}
+
+.third div {
+  width: 420px;
+
+  display: inline-block;
+}
+
+.left {
+  margin-right: 60px;
+}
+
+.right {
+  margin-right: -4px;
+}
+
+.btm {
+  display: block;
+  position: relative;
+  margin-top: 20px;
+  margin: 0 auto;
+  height: 65px;
+  width: 160px;
+  margin-top: 60px;
+  border: 1px solid ;
+}
